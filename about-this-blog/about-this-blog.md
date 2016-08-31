@@ -41,7 +41,7 @@
     - **TypesScript** JavaScript
     - Angular 2.0 (想使用未接触的技术，边做边熟悉)
     - HTML CSS
-    - WebPack + FSI3 (构建方面组合使用)
+    - NodeJS + WebPack + FSI3 (构建方面组合使用)
 
     服务端
     - **TypesScript** JavaScript
