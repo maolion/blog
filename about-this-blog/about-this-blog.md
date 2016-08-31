@@ -47,7 +47,7 @@
     - **TypesScript** JavaScript
     - NodeJS
     - MongoDB
-    - GitHub 
+    - GitHub API
     - git
     - Bash
     - PM2
