@@ -65,7 +65,7 @@
 
 ----
 
-## 关于个人播客网站程序的架构
+## 关于个人博客网站程序的架构
 
 - 高逼格, 高质量, 合理组织，文档配套齐全。
 - 文章内容来源 均来自 [github maolion/blog](https://github.com/maolion/blog)
