@@ -6,3 +6,8 @@
 
 - [关于这个博客](./about-this-blog/about-this-blog.md)
 - [关于我](./about-me/about-me.md)
+
+
+----
+
+[!maolion_j](http://www.maolion.com/weichat.png)
