@@ -10,4 +10,4 @@
 
 ----
 
-[!maolion_j](http://www.maolion.com/weichat.png)
+![maolion_j](http://www.maolion.com/weichat.png)
